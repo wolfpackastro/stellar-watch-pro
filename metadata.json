@@ -1,0 +1,7 @@
+{
+  "name": "StellarWatch Pro - Constellation Guide",
+  "description": "A specialized web application for astrophotographers to discover featured constellations for each month in both hemispheres, presented in a night-vision-friendly UI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
